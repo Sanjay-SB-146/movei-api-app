@@ -17,7 +17,11 @@ A modern, responsive Movie Search application built with **Vanilla JavaScript (E
 
 ---
 
-## 🚀 Live Demo & How to Run
+## 🚀 Live Demo & Deployment
+
+- 🌐 **Live Website (Instant Access)**: **[https://cinepulse-movie-app.surge.sh](https://cinepulse-movie-app.surge.sh)**
+- 🐙 **GitHub Repository**: **[https://github.com/Sanjay-SB-146/movei-api-app](https://github.com/Sanjay-SB-146/movei-api-app)**
+- 📄 **GitHub Pages**: **[https://sanjay-sb-146.github.io/movei-api-app/](https://sanjay-sb-146.github.io/movei-api-app/)**
 
 ### Option 1: Using the Built-in Node Server (Recommended)
 This repository includes a lightweight zero-dependency Node.js server:
