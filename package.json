@@ -1,0 +1,17 @@
+{
+  "name": "movei-api-app",
+  "version": "1.0.0",
+  "description": "CinePulse - Modern Movie Search Application built with ES6+ JavaScript and OMDb API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "movie-api",
+    "omdb",
+    "javascript-es6",
+    "student-project"
+  ],
+  "author": "",
+  "license": "MIT"
+}
